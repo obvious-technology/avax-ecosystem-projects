@@ -1,0 +1,20 @@
+{
+  "name": "Obvious",
+  "slug": "obvious",
+  "tags": [
+    "wallet"
+  ],
+  "status": "live",
+  "highlight": "The fastest way to transact with crypto on mobile",
+  "logo": "/img/obvious.png",
+  "website": "https://obvious.technology/",
+  "twitter": "https://twitter.com/itsobvioustech",
+  "telegram": "",
+  "github": "https://github.com/obvious-technology",
+  "discord": "",
+  "summary": "Obvious is a self-custody mobile-only wallet that powers your cross-chain transactions by giving you safe, fast, and affordable bridging & swapping routes. Obvious also brings together your assets across major EVM chains.",
+  "docs": "",
+  "cmc": "",
+  "date": "",
+  "token": ""
+}
